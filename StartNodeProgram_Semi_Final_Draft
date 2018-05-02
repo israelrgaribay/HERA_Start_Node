@@ -4,7 +4,8 @@
  *                                      Including More Documentation
  *  Israel Garibay    5/01/18           Fixed Clock data stored in R2
  * 
- * 
+ *  Sketch uses 22864 bytes (70%) of program storage space. Maximum is 32256 bytes.
+ *  Global variables use 1559 bytes of dynamic memory.
  * 
  */
 /*===================================================================================================== 
